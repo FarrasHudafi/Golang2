@@ -1,6 +1,7 @@
 # Let's Go! React with Go Complete Fullstack App - TypeScript, React Query, MongoDB, ChakraUI
 
-![Demo App](https://i.ibb.co/JvRTWmW/Group-93.png)
+![image](https://github.com/user-attachments/assets/ca18a6c5-b454-4b99-b483-afca1f6fa5a1)
+
 
 
 DEMO APP
