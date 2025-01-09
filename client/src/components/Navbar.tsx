@@ -30,7 +30,6 @@ export default function Navbar() {
 						>
 							Add A Task
 						</Text>
-
 					</Flex>
 
 					{/* RIGHT SIDE */}
