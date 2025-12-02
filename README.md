@@ -22,8 +22,8 @@ Some Features:
 ### .env file
 
 ```shell
-MONGO_URI=<database mongo_dbn>
 PORT=5000
+MONGODB_URI=<LINK DATABASE MONGO_DB>
 ENV=development
 ```
 
