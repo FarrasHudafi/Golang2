@@ -22,11 +22,16 @@ Some Features:
 ### .env file
 
 ```shell
-MONGO_URI=<your_mongo_uri>
+MONGO_URI=<database mongo_dbn>
 PORT=5000
 ENV=development
 ```
 
+```shell
+abis itu 
+cd client
+npm install
+npm run dev atau yarn dev
 ### Compile and run
 
 ```shell

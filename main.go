@@ -109,7 +109,7 @@ func createTodo(c *fiber.Ctx) error {
 	}
 
 	if todo.Body == "" {
-		return c.Status(400).JSON(fiber.Map{"error": "Todo body cannot be empty"})
+		return c.Status(400).JSON(fiber.Map{"error": "Please provide todo"})
 	}
 
 	insertResult, err := collection.InsertOne(context.Background(), todo)
