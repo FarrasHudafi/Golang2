@@ -32,9 +32,9 @@ abis itu
 cd client
 npm install
 npm run dev atau yarn dev
-### Compile and run
-
+```
 
 ```shell
+### Compile and run
 go run main.go
 ```
